@@ -30,7 +30,7 @@ POST {{baseUrl}}/admin/Authors
 Content-Type: application/json
 
 {
-  "name": "Friedrich Schiller",
+  "name": "Naruaito Dos Santos",
   "dateOfBirth": "1759-11-10",
   "dateOfDeath": "1805-05-09"
 }
